@@ -8,7 +8,11 @@ This application enables people to enter notes to their page.
 
 ## Access
 
-The following link: https://note-taker-sdj.herokuapp.com
+GitHub link:
+[GitHub](https://github.com/sophiekdj/Note-Taker)
+
+Heroku link:
+[Tech-Blog App](https://note-taker-sdj.herokuapp.com)
 
 ## Usage
 
